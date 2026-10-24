@@ -1,4 +1,4 @@
-# AI Resume Analyzer and Job Recommendation System
+# AI Resume Analyzer 
 
 # Project Overview
 
