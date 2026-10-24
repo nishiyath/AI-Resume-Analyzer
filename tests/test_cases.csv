@@ -1,0 +1,11 @@
+Test Case,Input,Expected Result,Status
+TC01,PDF resume with technical skills,Resume text should be extracted successfully,Pass
+TC02,DOCX resume with technical skills,Resume text should be extracted successfully,Pass
+TC03,Resume containing Python SQL Pandas,These skills should be identified,Pass
+TC04,Resume with Machine Learning and Scikit-learn,These skills should be identified,Pass
+TC05,Resume missing FastAPI and Docker,Missing skills should be identified for ML Engineer,Pass
+TC06,Resume matched against five job roles,Five role match scores should be generated,Pass
+TC07,User selects Machine Learning Engineer,Skill gap and roadmap should be displayed,Pass
+TC08,User does not select a target role,Skill gap and roadmap should not appear,Pass
+TC09,Resume with no recognized technical skills,No skills found message should appear,Pass
+TC10,Download report after selecting target role,TXT report should be generated,Pass

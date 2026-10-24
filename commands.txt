@@ -1,0 +1,7 @@
+python -m venv resume_env
+.\resume_env\Scripts\Activate.ps1
+
+pip install pandas
+pip install scikit-learn
+pip install pypdf
+pip install python-docx

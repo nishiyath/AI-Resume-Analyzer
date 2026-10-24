@@ -1,0 +1,25 @@
+Skill,Category
+Python,Programming
+SQL,Database
+Excel,Tools
+Pandas,Data Analysis
+NumPy,Data Analysis
+Power BI,Visualization
+Machine Learning,Machine Learning
+Scikit-learn,Machine Learning
+Deep Learning,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+NLP,NLP
+Transformers,NLP
+Hugging Face,NLP
+LLM,Generative AI
+RAG,Generative AI
+APIs,Development
+FastAPI,Development
+Docker,DevOps
+Git,Tools
+GitHub,Tools
+OpenCV,Computer Vision
+CNN,Computer Vision
+YOLO,Computer Vision
